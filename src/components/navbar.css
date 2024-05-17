@@ -1,0 +1,22 @@
+.text{
+    
+font-weight: 600;
+color: #7A53E4;
+/* background-color: aliceblue; */
+}
+
+.menu{
+    background-color: white;
+    /* box-shadow: #7A53E4; */
+}
+
+.navbar{
+    margin: auto;
+}
+.text{
+    margin-left: 2rem;
+}
+.btn {
+    margin-right: 2rem;
+    margin-left: rem;
+}
